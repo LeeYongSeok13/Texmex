@@ -1,6 +1,7 @@
 const Main = () => {
     return(
-        <div></div>
+        <div className="Main">
+        </div>
     )
 }
 export default Main
