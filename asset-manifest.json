@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/Texmex/static/css/main.31d6cfe0.css",
-    "main.js": "/Texmex/static/js/main.1093691a.js",
-    "static/js/787.10637cd4.chunk.js": "/Texmex/static/js/787.10637cd4.chunk.js",
+    "main.css": "/Texmex/static/css/main.cf530b48.css",
+    "main.js": "/Texmex/static/js/main.ba519ccc.js",
     "index.html": "/Texmex/index.html",
-    "main.1093691a.js.map": "/Texmex/static/js/main.1093691a.js.map",
-    "787.10637cd4.chunk.js.map": "/Texmex/static/js/787.10637cd4.chunk.js.map"
+    "main.cf530b48.css.map": "/Texmex/static/css/main.cf530b48.css.map",
+    "main.ba519ccc.js.map": "/Texmex/static/js/main.ba519ccc.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.1093691a.js"
+    "static/css/main.cf530b48.css",
+    "static/js/main.ba519ccc.js"
   ]
 }
